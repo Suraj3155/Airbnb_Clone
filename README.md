@@ -30,29 +30,53 @@ A full-stack **Node.js + Express + EJS** web application inspired by Airbnb, all
 ## 📂 Folder Structure
 
 Airbnb_Clone/
+
 ├── classroom/
+
 │ ├── routes/
+
 │ └── server.js
+
 ├── init/
+
 │ ├── data.js
+
 │ └── index.js
+
 ├── models/
+
 │ ├── listing.js
+
 │ └── review.js
+
 ├── public/
+
 │ ├── css/
+
 │ └── js/
+
 ├── routes/
+
 │ ├── listing.js
+
 │ └── review.js
+
 ├── utils/
+
 │ ├── ExpressError.js
+
 │ └── wrapAsync.js
+
 ├── views/ # EJS templates
+
 ├── app.js # Main server file
+
 ├── schema.js # Database connection/schema setup
+
 ├── package.json
+
 ├── package-lock.json
+
 └── .gitignore
 
 yaml
